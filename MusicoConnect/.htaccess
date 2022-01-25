@@ -1,3 +1,0 @@
-ErrorDocument 403 /DevError.php
-ErrorDocument 404 /DevError.php
-ErrorDocument 500 /DevError.php
