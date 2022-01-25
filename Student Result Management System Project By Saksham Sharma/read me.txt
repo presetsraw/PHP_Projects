@@ -11,26 +11,13 @@ Open phpmyadmin
 Create Database�srms
 Import database srms.sql (available inside zip package or in sql folder)
 
-For User
-
-Open Your browser put inside browser �http://localhost/srms�
-Details of student �--
-
-
-Student name-- Saksham Sharma�
-
-
-University Roll id--191280570026
-Class Roll id--3019110011
-Student Class: MCA -II
-
 For Admin Panel Login
 
 Open Your browser put inside browser �http://localhost/srms�
 Login Details for admin :�
 
 username: admin
-password: admin
+password: Test@123
 
 For Student Login
 Roll No: 11
